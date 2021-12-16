@@ -1,6 +1,6 @@
 # Taxi Service
 This project describes the work of the taxi service</br>
-###Using it you can do the following:
+### Using it you can do the following:
 ![image](http://joxi.ru/krDdxkETGEJe6r.jpg)
 #### There are also authorization and registration stages, which you have to pass to access these options
 ### Implementation details:
