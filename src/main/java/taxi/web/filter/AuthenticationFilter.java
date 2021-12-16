@@ -14,7 +14,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-@WebFilter(urlPatterns = "/*")
 public class AuthenticationFilter implements Filter {
     private static final String ID = "driver_id";
     private Set<String> urlsAllowed;
